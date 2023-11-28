@@ -1,9 +1,9 @@
 import React from 'react'
 
-const MysticForest = () => {
+const Mystic_Forest = () => {
     return (
         <h1>Mystic Forest</h1>
     )
 }
 
-export default MysticForest
+export default Mystic_Forest
